@@ -1,4 +1,4 @@
-Pekan terakhir di Phase 0 ini kita akan melatih lebih kemampuan logika kamu dengan
+Pekan terakhir di Fase 0 ini kita akan melatih lebih kemampuan logika kamu dengan
 mereview kembali materi yang sudah diberikan dengan mengerjakan latihan-latihan logic kembali.
 
 Di

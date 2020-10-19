@@ -1,10 +1,10 @@
 
-Selamat datang di tahap persiapan sesungguhnya bootcamp Hacktiv8, yaitu Phase 0! Phase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Phase 0 juga menjadi penentu apakah kamu dapat maju ke Phase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
+Selamat datang di tahap persiapan sesungguhnya training , yaitu Fase 0! Fase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Fase 0 juga menjadi penentu apakah kamu dapat maju ke Fase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
 
-**Bagaimana Phase 0 ini akan berjalan?**
+**Bagaimana Fase 0 ini akan berjalan?**
 
 Dalam tahap ini kamu akan belajar dasar-dasar pemograman. Kamu akan belajar setiap hari bersama teman-teman kamu.
-Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya bootcamp, kita akan menggunakan grup [Slack](https://slack.com/).
+Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya training, kita akan menggunakan grup [Slack](https://slack.com/).
 
 Panduan:
 - :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
@@ -19,7 +19,7 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 
 ## Monday
 - ### Session 1
-  - Welcome to Phase 0 and Briefing
+  - Welcome to Fase 0 and Briefing
 - ### Session 2
   - Lecture:
     - HTML

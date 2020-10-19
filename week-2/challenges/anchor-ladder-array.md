@@ -23,7 +23,7 @@ function ladder(word) {
 }
 
 // DRIVER CODE
-console.log(ladder('hacktiv8'));
+console.log(ladder(''));
 [
   [ 'h', 'a', 'c', 'k', 't', 'i', 'v', '8' ],
   [ 'h', 'a', 'c', 'k', 't', 'i', 'v' ],

@@ -18,7 +18,7 @@ Buatlah program yang menghasilkan gambar yang menyerupai tangga dengan pola seba
 
 ```
 Contoh 1:
-let kata = 'hacktiv8'
+let kata = ''
 
 //output yang diharapkan
 
@@ -29,7 +29,7 @@ let kata = 'hacktiv8'
    8vitk
   cktiv8
  8vitkca
-hacktiv8
+
 
 Contoh 2:
 let num = 'foxie'
