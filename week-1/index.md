@@ -1,17 +1,16 @@
 
-Selamat datang di tahap persiapan sesungguhnya training , yaitu Fase 0! Fase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Fase 0 juga menjadi penentu apakah kamu dapat maju ke Fase 1. Kita harap bersama agar kamu antusias untuk meningkatkan pengetahuan dasarmu!
+Selamat datang di tahap persiapan sesungguhnya training , yaitu Fase 0! Fase 0 ini merupakan pembelajaran yang bersifat matrikulasi atau kalibrasi yang lebih intens. Fase 0 juga menjadi penentu apakah dapat maju ke Fase 1. Kita harap peserta antusias untuk meningkatkan pengetahuan dasar!
 
 **Bagaimana Fase 0 ini akan berjalan?**
 
-Dalam tahap ini kamu akan belajar dasar-dasar pemograman. Kamu akan belajar setiap hari bersama teman-teman kamu.
-Untuk seluruh diskusi pembelajaran inti dari awal persiapan hingga berakhirnya training, kita akan menggunakan grup [Slack](https://slack.com/).
+Dalam tahap ini peserta akan belajar dasar-dasar pemograman.
 
 Panduan:
-- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran kamu. Di dalam beberapa bacaan, ada direction yang memintamu membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu kamu saja.
-- :anchor: **Anchor** adalah tugas atau tantangan yang wajib kamu kerjakan dan kumpulkan.
-- 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila kamu selesaikan dengan baik, pembelajarannya maksimal! 😎
-- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatanmu sebagai calon developer masa depan
-- :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuanmu
+- :notebook_with_decorative_cover: **Reference** adalah bacaan sebagai referensi pembelajaran. Di dalam beberapa bacaan, ada direction yang meminta membuat sesuatu. Direction itu lebih bersifat opsional untuk membantu lebih memahami materi.
+- :anchor: **Anchor** adalah tugas atau tantangan yang wajib dikerjakan dan dikumpulkan.
+- 💪 **Self Training** adalah tugas atau tantangan opsional yang walaupun tidak dikumpulkan, bila diselesaikan dengan baik, pembelajarannya maksimal!
+- :rocket: **Rocket** adalah tantangan opsional yang menguji kehebatan sebagai calon developer masa depan.
+- :books: **Optional Reference** adalah bacaan sebagai referensi tambahan yang akan memperkaya pengetahuan.
 
 **Pengumpulan Tugas dan Sistem Feedback**
 
