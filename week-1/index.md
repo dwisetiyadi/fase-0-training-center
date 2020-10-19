@@ -25,7 +25,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Codecademy Course - HTML](https://www.codecademy.com/learn/learn-html)
     - :rocket: [Membuat Halaman HTML Sederhana](/week-1/challenges/rocket-laman-web-pertamaku.md)
-- ### [Click disini untuk mengumpulkan challenge W1D1](https://airtable.com/shrVWuwKPZys8TjR5)
 
 ## Tuesday
 - ### Session 1
@@ -39,7 +38,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Challenge(s):
     - :anchor: [Menghias HTML dengan CSS](/week-1/challenges/anchor-css-selector-and-styling.md)
     - :rocket: [Membuat Layout dan Desain Halaman Web dengan CSS](/week-1/challenges/rocket-css-layouting.md)
-- ### [Click disini untuk mengumpulkan challenge W1D2](https://airtable.com/shrlcmgELh3w7h6bF)
 
 ## Wednesday
 - ### Session 1 & 2
@@ -47,7 +45,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
     - Review HTML and CSS
   - Challenge:
     - :anchor: [Membuat Web Sederhana dengan HTML dan CSS](/week-1/challenges/anchor-web-sederhana.md)
-- ### [Click disini untuk mengumpulkan challenge W1D3](https://airtable.com/shrVrybFeKYD5Q6c7)
 
 ## Thursday
 - ### Session 1
@@ -69,8 +66,6 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
   - Reference(s):
     - :notebook_with_decorative_cover: [Conditional and Primitive Data Type](/week-1/references/js-first-time.md)
     - :notebook_with_decorative_cover: [Understanding String in Javascript](/week-1/references/js-string-reference.md)
-
- - ### [Click disini untuk mengumpulkan challenge W1D4](https://airtable.com/shr7zDfI34a5pW6QY)
 
 ## Friday
 - ### Session 1
@@ -100,5 +95,3 @@ Tugas dikumpulkan harian, dan setiap tugas akan dikoreksi setiap pagi di hari se
 ## Weekend (Homework)
   - :anchor:[Pasangan Angka Terbesar](/week-1/challenges/anchor-pasangan-angka-terbesar.md)
   - :anchor:[Ubah Huruf](/week-1/challenges/anchor-ubah-huruf.md)
-
-  - ### [Click disini untuk mengumpulkan Homework](https://airtable.com/shrLOT7OVWNkM5thv)
