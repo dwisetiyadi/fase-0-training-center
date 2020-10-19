@@ -1,8 +1,3 @@
----
-path: '/week-1/challenges/rocket-laman-web-pertamaku'
-title: 'Laman Web Pertamaku'
----
-
 # Laman Web Pertamaku
 
 ## Objectives
