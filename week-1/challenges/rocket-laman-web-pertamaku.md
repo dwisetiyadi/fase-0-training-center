@@ -7,7 +7,7 @@ title: 'Laman Web Pertamaku'
 
 ## Objectives
 
-Setelah mempelajari dasar-dasar HTML, kamu ditantang untuk membuat sebuah laman html sendiri menggunakan *tags* yang telah kamu pelajari. Laman pertama ini akan digunakan untuk tugas-tugas selanjutnya, pastikan kamu mengerjakannya dengan baik.
+Setelah mempelajari dasar-dasar HTML, selanjutnya membuat sebuah laman html sendiri menggunakan *tags* yang telah dipelajari. Laman pertama ini akan digunakan untuk tugas-tugas selanjutnya, pastikan dikerjakan dengan baik.
 
 ## Directions
 
