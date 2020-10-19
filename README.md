@@ -1,7 +1,7 @@
 # Fase 0 Training Center
 
-Fase 0 adalah aktivitas yang mempersiapkan murid untuk mampu memahami dan masuk ke dalam Fase 1 Program
-Full-Stack JavaScript Development Course di . Repositori ini digunakan sebagai acuan untuk pembelajaran dan bersifat wajib untuk dipelajari dan dikerjakan untuk berkesempatan melanjutkan ke dalam Fase 1.
+Fase 0 adalah aktivitas yang mempersiapkan peserta untuk mampu memahami dan masuk ke dalam Fase 1 Program
+Full-Stack JavaScript Development Course. Repositori ini digunakan sebagai acuan untuk pembelajaran dan bersifat wajib untuk dipelajari dan dikerjakan untuk berkesempatan melanjutkan ke dalam Fase 1.
 
 Materi di bagi ke dalam empat minggu, yang tiap minggu nya terdiri dari berbagai fokus materi.
 
